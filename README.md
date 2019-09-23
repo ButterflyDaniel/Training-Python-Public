@@ -27,4 +27,4 @@
 - 定制培训
     - [2019.09: Python & RobotFrameWork](https://github.com/wu-wenxiang/Training-Python-Public/blob/master/doc/TailoredTraining-Python-RobotFrameWork.md)
 - 注意
-    - [COPYRIGHT](COPY FROM WU-WENXIANG，All rights reserved)
+    - [COPY FROM WU-WENXIANG，All rights reserved]
