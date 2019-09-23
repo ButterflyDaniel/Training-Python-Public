@@ -26,4 +26,4 @@
     - [sysinternals](https://docs.microsoft.com/zh-cn/sysinternals/)
 - 定制培训
     - [2019.09: Python & RobotFrameWork](https://github.com/wu-wenxiang/Training-Python-Public/blob/master/doc/TailoredTraining-Python-RobotFrameWork.md)
--[COPYRIGHT]COPY FROM WU-WENXIANG，All rights reserved
+-[COPYRIGHT](COPY FROM WU-WENXIANG，All rights reserved)
